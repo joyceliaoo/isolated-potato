@@ -61,6 +61,7 @@ int main() {
     if (!found) printf("No pairs found! \n");
 
     free(buffer);
+    free(nums);
 
     return 0;
 }
