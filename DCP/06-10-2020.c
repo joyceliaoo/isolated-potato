@@ -17,7 +17,7 @@
 // find max element of array
 int max(int* arr, size_t n) {
     if (n < 1) {
-        perror("array is empty");
+        printf("array is empty");
         exit(1);
     } else if (n == 1) {
         return arr[0];
