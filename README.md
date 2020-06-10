@@ -1,1 +1,1 @@
-# isolated-potato
+# Miscellaneous Coding Pratice
