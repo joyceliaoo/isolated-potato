@@ -1,1 +1,1 @@
-## Miscellaneous Coding Pratices
+## Miscellaneous Coding Practices
