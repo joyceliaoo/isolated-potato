@@ -39,7 +39,7 @@ def distinctSub(s, k):
                     # get rid of leftmost letter
                     leftIdx += 1
             else:
-                # keep accumuating letters
+                # keep accumulating letters
                 letters += 1 
         curr = s[leftIdx:rightIdx]
         rightIdx += 1
