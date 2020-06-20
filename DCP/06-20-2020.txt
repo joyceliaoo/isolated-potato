@@ -12,10 +12,11 @@ Let C = circle inscribed in D
 Area(D) = 1 unit^2
 Area(C) = pi/4
 
-Randomly generate (x,y) points in D and identify them as either to be inside C or outside C.
-If we generate enough points, then Area(C)/Area(D) == # pts inside the circle / # pts outside of circle
+Randomly generate (x,y) points and count the number of points in C or in D
 
-So pi == 4 * # pts inside the circle / # pts outside of circle
+If we generate enough points, then Area(C)/Area(D) == # pts inside the circle / # pts inside square
+
+So pi == 4 * # pts inside the circle / # pts inside square
 
 
 
