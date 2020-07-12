@@ -1,0 +1,9 @@
+01 - string
+02 - collection
+03 - re
+04 - urllib
+05 - pickle
+06 - zipfile
+07 - PIL (Pillow) [ImageColor]
+08 - bz2
+09 - PIL [ImageDraw]
